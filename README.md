@@ -1,4 +1,4 @@
 # Basketball Score Counter App 
 A simple basketball score counter for android 
-![Screenshots_1](https://imgur.com/rSu841W7)
-![Screenshots_2](https://imgur.com/lVabHB7)
+![Imgur](https://i.imgur.com/2pcFJDC.png)
+![Imgur](https://i.imgur.com/lVabHB7.png)
